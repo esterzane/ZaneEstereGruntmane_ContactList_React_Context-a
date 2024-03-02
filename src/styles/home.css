@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(40, 40, 141);
+    color: rgb(205, 205, 225)
+
+}
+.list-group {
+    text-align: justify;
+    margin-left: 1rem;
+}
+.contact-change {
+    display:flex; 
+   font-size: x-large;
+   align-items: center;
+   justify-content: space-evenly
+   
+}

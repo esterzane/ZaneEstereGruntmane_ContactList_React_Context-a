@@ -1,0 +1,10 @@
+.list-group {
+    display: flex;
+    width: 45rem;
+    color: #d4e212; 
+
+}
+.contact-change {
+    z-index: 10; 
+}
+
